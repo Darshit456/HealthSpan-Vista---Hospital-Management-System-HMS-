@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Darshit456/HMS_Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Darshit456/Hospital_Management_System.git
